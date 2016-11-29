@@ -1,2 +1,2 @@
 <?php
-echo 'bot';
+echo 'bot2';
